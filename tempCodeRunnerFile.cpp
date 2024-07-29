@@ -1,0 +1,11 @@
+insertNode(tail,5,6);
+    //  print(tail);
+    //   insertNode(tail,6,9);
+    //  print(tail);
+    //   insertNode(tail,9,10);
+    //  print(tail);
+    //   insertNode(tail,10,16);
+    //  print(tail);
+    //  deletNode(tail,9);
+    //  cout<<"after delete the Node"<<endl;
+    //   print(tail);
